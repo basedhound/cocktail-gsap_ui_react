@@ -41,7 +41,7 @@
 
 ## <a name="features">🔋 Features</a>
 
-👉 **SplitText Animations**: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.
+👉 **SplitText Animations**: Smooth text reveals using GSAP’s SplitText for dynamic section highlights.
 
 👉 **ScrollTrigger Effects**: Power scroll-based animations and timeline control with GSAP’s ScrollTrigger.
 
