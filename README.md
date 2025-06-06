@@ -11,11 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-  <h3 align="center">Stunning GSAP Cocktail Website</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <h3 align="center">GSAP Cocktail Website</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -24,25 +20,13 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Build and deploy a stunning GSAP-powered cocktail website using React and Tailwind CSS—a modern, scroll-driven experience packed with advanced animations. Bring your design to life with dynamic SplitText reveals, smooth parallax scrolling, and scroll-triggered effects using GSAP’s ScrollTrigger. Lock sections in place with pinned animations, sync video playback to scroll position for cinematic storytelling, and enhance visual impact with scroll-based image masking. Create a custom animated carousel, craft seamless timeline animations across sections, and ensure a fully responsive UI that adapts beautifully across all screen sizes.
+**`[EN]`** A stunning cocktail website powered by GSAP, React, and Tailwind CSS—a modern, scroll-driven experience packed with advanced animations. Featuring dynamic SplitText reveals, smooth parallax scrolling, scroll-triggered effects, pinned sections, scroll-synced video playback, image masking, a custom animated carousel, seamless timeline animations, and a fully responsive design.
 
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+**`[FR]`** Un site de cocktails moderne développé avec GSAP, React et Tailwind CSS, porté par des animations au scroll fluides et immersives. Texte animé avec SplitText, effets de parallaxe, sections épinglées, vidéos synchronisées au défilement, effets de masquage sur les images, carrousel animé et transitions harmonieuses, le tout dans un design responsive.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -93,8 +77,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/gsap_website.git
-cd gsap_website
+git clone {remote URL}
 ```
 
 **Installation**
@@ -112,22 +95,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-## <a name="links">🔗 Assets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/cocktail-kit)**.
-
-<a href="https://jsm.dev/cocktail-kit" target="_blank">
-  <img src="public/readme/videokit.png" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/cocktail-nextjs" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
