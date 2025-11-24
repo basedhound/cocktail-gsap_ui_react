@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://cocktail-fv.netlify.app" target="_blank">
+    <a href="https://cocktail-fv.vercel.app" target="_blank">
       <img src="public/readme/hero.png" alt="Project Banner">
     </a>
   <br />
